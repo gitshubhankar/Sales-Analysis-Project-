@@ -1,6 +1,4 @@
 # Sales-Analysis-Project-
-Project for my IITK Data Science program. In this project I have performed Sales Analysis for a company and provided insights.
-This project consists of Data Wrangling, Data Analysis and Data Visualization.
 
 Project Statement:
 AAL is a household name in Australia, known for its clothing business since 2000. It caters to all groups— kids, women, men, and seniors. It has opened branches in many states in Australia, in metropolises and tier-1 and tier-2 cities. 
